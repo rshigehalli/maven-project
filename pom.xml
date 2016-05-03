@@ -70,7 +70,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.3</muleVersion>
-					<username>rshigehalli</username>
+					<username>rajeshs</username>
 					<password>Cisco123</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
